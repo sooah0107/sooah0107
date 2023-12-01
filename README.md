@@ -14,7 +14,7 @@ Hi, I'm Sakthi Vinayak! <br/><a href="https://github.com/sooah0107">Information 
 - <b>Javascript</b>
   - [Student Registration Form(Form Validation)](https://github.com/sooah0107/LABURL)
 - <b>Java</b>
-  - [SMS application](https://github.com/sooah0107/LABURL)
+  - [SMS application](https://github.com/sooah0107/SMS-Application)
   - [Email Application](https://github.com/sooah0107/Email-Application)
 
 - 🔭 I’m currently working on my final Year Project " Intrusion Detection System for Fileless Malware" and "Large Language Model for Infosec Policies, Standards and Compliances"
