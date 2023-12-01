@@ -1,16 +1,25 @@
-### Hi there 👋
+Hi, I'm Sakthi Vinayak! <br/><a href="https://github.com/sooah0107">Information Technology Major.</a>, <a href="https://www.linkedin.com/in/sakthivinayak/">Cybersecurity Enthusiast</a>
 
-<!--
-**sooah0107/sooah0107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 My Projects:</h2>
 
-Here are some ideas to get you started:
+- <b> Comparison of AVL and BST Trees using C++ </b>
+  - [AVL vs BST Trees](https://github.com/sooah0107/LABURL)
+- <b>ZyberWall </b>
+  - [Zyberwall](https://github.com/sooah0107/LABURL) 
+- <b>PowerShell</b>
+  - [Extracting Windows EventLog: Failed RDP Logins](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Python</b>
+  - [Keylogger](https://github.com/sooah0107/LABURL)
+  - [Naive Bayes Classifier](https://github.com/sooah0107/LABURL)
+- <b>Javascript</b>
+  - [Student Registration Form(Form Validation)](https://github.com/sooah0107/LABURL)
+- <b>Java</b>
+  - [SMS application](https://github.com/sooah0107/LABURL)
+  - [Email Application](https://github.com/sooah0107/LABURL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on my final Year Project " Intrusion Detection System for Fileless Malware" and "Large Language model for Infosec Policies, Standards and Compliances"
+- 🌱 I’m currently learning Malware Analysis 
+- 📫 Reach me at: https://www.linkedin.com/in/sakthivinayak/
+  
+-->
 -->
