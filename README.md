@@ -7,7 +7,7 @@ Hi, I'm Sakthi Vinayak! <br/><a href="https://github.com/sooah0107">Information 
 - <b>ZyberWall </b>
   - [Zyberwall](https://github.com/sooah0107/Zyber-Wall) 
 - <b>PowerShell</b>
-  - [Extracting Windows EventLog: Failed RDP Logins](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Extracting Windows EventLog: Failed RDP Logins](https://github.com/sooah0107/Windows-Event-Log-Extractor)
 - <b>Python</b>
   - [Keylogger](https://github.com/sooah0107/LABURL)
   - [Naive Bayes Classifier](https://github.com/sooah0107/LABURL)
@@ -17,7 +17,7 @@ Hi, I'm Sakthi Vinayak! <br/><a href="https://github.com/sooah0107">Information 
   - [SMS application](https://github.com/sooah0107/LABURL)
   - [Email Application](https://github.com/sooah0107/LABURL)
 
-- 🔭 I’m currently working on my final Year Project " Intrusion Detection System for Fileless Malware" and "Large Language model for Infosec Policies, Standards and Compliances"
+- 🔭 I’m currently working on my final Year Project " Intrusion Detection System for Fileless Malware" and "Large Language Model for Infosec Policies, Standards and Compliances"
 - 🌱 I’m currently learning Malware Analysis 
 - 📫 Reach me at: https://www.linkedin.com/in/sakthivinayak/
   
