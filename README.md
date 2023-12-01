@@ -5,7 +5,7 @@ Hi, I'm Sakthi Vinayak! <br/><a href="https://github.com/sooah0107">Information 
 - <b> Comparison of AVL and BST Trees using C++ </b>
   - [AVL vs BST Trees](https://github.com/sooah0107/LABURL)
 - <b>ZyberWall </b>
-  - [Zyberwall](https://github.com/sooah0107/LABURL) 
+  - [Zyberwall](https://github.com/sooah0107/Zyber-Wall) 
 - <b>PowerShell</b>
   - [Extracting Windows EventLog: Failed RDP Logins](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Python</b>
