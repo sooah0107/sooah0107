@@ -10,7 +10,6 @@ Hi, I'm Sakthi Vinayak! <br/><a href="https://github.com/sooah0107">Information 
   - [Extracting Windows EventLog: Failed RDP Logins](https://github.com/sooah0107/Windows-Event-Log-Extractor)
 - <b>Python</b>
   - [Keylogger](https://github.com/sooah0107/LABURL)
-  - [Naive Bayes Classifier](https://github.com/sooah0107/LABURL)
 - <b>Javascript</b>
   - [Student Registration Form(Form Validation)](https://github.com/sooah0107/LABURL)
 - <b>Java</b>
