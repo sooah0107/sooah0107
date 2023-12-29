@@ -11,7 +11,8 @@ Hi, I'm Sakthi Vinayak! <br/><a href="https://github.com/sooah0107">Information 
 - <b>Python</b>
   - [Keylogger](https://github.com/sooah0107/LABURL)
 - <b>Javascript</b>
-  - [Student Registration Form(Form Validation)](https://github.com/sooah0107/LABURL)
+  - [Student Registration Form(Form Validation)](https://github.com/sooah0107/Student-Registration-Form-Form-Val
+)
 - <b>Java</b>
   - [SMS application](https://github.com/sooah0107/SMS-Application)
   - [Email Application](https://github.com/sooah0107/Email-Application)
