@@ -3,7 +3,7 @@ Hi, I'm Sakthi Vinayak! <br/><a href="https://github.com/sooah0107">Information 
 <h2>👨‍💻 My Projects:</h2>
 
 - <b> Comparison of AVL and BST Trees using C++ </b>
-  - [AVL vs BST Trees](https://github.com/sooah0107/LABURL)
+  - [AVL vs BST Trees](https://github.com/sooah0107/AVL-vs-BST-Trees)
 - <b>ZyberWall </b>
   - [Zyberwall](https://github.com/sooah0107/Zyber-Wall) 
 - <b>PowerShell</b>
