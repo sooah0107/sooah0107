@@ -8,8 +8,6 @@ Hi, I'm Sakthi Vinayak! <br/><a href="https://github.com/sooah0107">Information 
   - [Zyberwall](https://github.com/sooah0107/Zyber-Wall) 
 - <b>PowerShell</b>
   - [Extracting Windows EventLog: Failed RDP Logins](https://github.com/sooah0107/Windows-Event-Log-Extractor)
-- <b>Python</b>
-  - [Keylogger](https://github.com/sooah0107/LABURL)
 - <b>Javascript</b>
   - [Student Registration Form(Form Validation)](https://github.com/sooah0107/Student-Registration-Form-Form-Val
 )
